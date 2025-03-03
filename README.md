@@ -1,11 +1,9 @@
 # Dashboard-Development
 
-The Importance of Charting and Dashboards
+**What is the importance of charts and dashboard?**
+Let's consider the following data presentation.
 
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/6e651ff6-05dd-4a93-8a1d-0608fe47a913" />
-
-
-Let's consider the following data presentation.
 
 How long will it take for individuals to comprehend the summary of the data? For example, which products are the best-sellers? It will likely take some time, especially for those who are apprehensive about numbers. While there is nothing inherently wrong with summaries, not everyone will be interested or enthusiastic about understanding the data. This is particularly true when presenting data to others such as superiors, clients, or stakeholders, who might not even glance at it.
 
