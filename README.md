@@ -1,6 +1,10 @@
 # Dashboard-Development
 
 
+
+## Dataset and Dashboard Link
+https://drive.google.com/drive/folders/1xBsKZqu1sLbxTI931qVnR6y53YdiyXXJ?usp=sharing
+
 ## Objective Analysis
 To review the company’s sales performance and profits over the past six years. This analysis is conducted to evaluate the current sales and marketing strategies and to develop future plans.
 
