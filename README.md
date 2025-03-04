@@ -35,3 +35,8 @@ To review the company’s sales performance and profits over the past six years.
 6. Focus on customer shopping behavior in each country. Conduct market segmentation analysis to understand customer preferences based on their country. The results of this analysis can serve as a guideline for targeted product innovations that meet market needs.
 7. Provide rewards (ex. discounts) for customers with the highest total spending.
 8. Offer top-selling products to customers with the lowest purchases or spending by analyzing past transaction data to understand their preferences and offering similar products.
+
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email or LinkedIn: noviaanggita047@gmail.com or https://www.linkedin.com/in/novia-anggita-aprilianti/
+
+#powerbi #power-bi #dashboard #data-visualization #data-visualization-dashboard #sales-performance
